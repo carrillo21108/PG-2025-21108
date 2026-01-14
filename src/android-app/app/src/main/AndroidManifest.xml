@@ -78,10 +78,10 @@
 
     <meta-data
         android:name="com.google.android.ar.API_KEY"
-        android:value="AIzaSyAOWsQT_li72czHtfqB-1-B3Qv8EdBxbUM"/>
+        android:value=""/>
 
     <meta-data
         android:name="com.google.android.geo.API_KEY"
-        android:value="AIzaSyAOWsQT_li72czHtfqB-1-B3Qv8EdBxbUM" />
+        android:value="" />
   </application>
 </manifest>
